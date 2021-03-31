@@ -11,7 +11,7 @@
       , "mixpanel": "~0.0.19"
       , "nodemailer": "~0.6.1"
       , "redis-url": "~0.2.0"
-      , "underscore": "~1.6.0"
+      , "underscore": "~1.12.1"
     }
   , "devDependencies": {
     }
